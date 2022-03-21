@@ -18,11 +18,11 @@ for converting many-valued column into corresponding binary features
 4. sklearn.linear_model.LinearRegression , sklearn.ensemble.RandomForestRegressor 
 , sklearn.model_selection.train_test_split , sklearn.metrics.r2_score and mean_squared_error
 for the ML analysis
-#Results
+# Results
 The analysis shown that Boston rates are significant higher than Seattle , 
 though this difference reduces in bigger properties. 
 With the city, neighborhood, host history, review ratings to be among the strongest factors that define price
-#Acknowledgements
+# Acknowledgements
 Credit to the AirBnB datasets hosted by Kaggle, the datasets are here 
 Seattle: https://www.kaggle.com/airbnb/seattle
 Boston: https://www.kaggle.com/airbnb/boston
