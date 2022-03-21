@@ -21,7 +21,9 @@ for the ML analysis
 # Results
 The analysis shown that Boston rates are significant higher than Seattle , 
 though this difference reduces in bigger properties. 
-With the city, neighborhood, host history, review ratings to be among the strongest factors that define price
+With the city, neighborhood, host history, review ratings to be among the strongest factors that define price.
+A blog post describing the results of this analysis can be found in
+https://medium.com/@psiodoros/boston-vs-seattle-airbnb-rates-4a8a5b3953db
 # Acknowledgements
 Credit to the AirBnB datasets hosted by Kaggle, the datasets are here 
 Seattle: https://www.kaggle.com/airbnb/seattle
